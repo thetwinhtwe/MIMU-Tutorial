@@ -5,5 +5,18 @@
 ###### +959777770400
 
 # Excel Tutorial From <a href="http://www.themimu.info/">The Information Management Unit (MIMU)</a>
-
+<ol>
+  <ol>
+    Basic Tutorial
+     <ol type="I">
+       <li>
+         01_Explaining Excel Window (Exercise)
+         <ol type="1">
+           <li><a href="https://github.com/thetwinhtwe/MIMU-Tutorial/blob/master/LifeExpectancy%20(Exercise%201).xlsx">Life Expectancy</a>            </li>
+         </ol>
+       </li>
+    </ol>
+  </li>
+  </ol>
+  
 
