@@ -12,7 +12,10 @@
        <li>
          01_Explaining Excel Window (Exercise)
          <ol type="1">
-           <li><a href="https://github.com/thetwinhtwe/MIMU-Tutorial/blob/master/LifeExpectancy%20(Exercise%201).xlsx">Life Expectancy</a>            </li>
+           <li><a href="https://github.com/thetwinhtwe/MIMU-Tutorial/blob/master/LifeExpectancy%20(Exercise%201).xlsx">Exercise (1)Life Expectancy</a> 
+           <li><a href="https://github.com/thetwinhtwe/MIMU-Tutorial/blob/master/Population_PyayDistrict.xlsx">Exercise (2)Population_PyayDistrict</a>
+             <li><a href="https://github.com/thetwinhtwe/MIMU-Tutorial/blob/master/Expentency_PyayDistrictPop.xlsx">Exercise (3)Expentency_PyayDistrictPop</a>
+           </li>
          </ol>
        </li>
     </ol>
